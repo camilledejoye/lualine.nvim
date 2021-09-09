@@ -37,6 +37,14 @@ lualine try to match your colorscheme.
 <img width='700' src='https://user-images.githubusercontent.com/41551030/108648541-cbb0cc80-74bb-11eb-843f-19c4c58b1d91.png'/>
 </p>
 
+### base16
+<p>
+<img width='700' src='https://user-images.githubusercontent.com/11501572/132732920-f41924a4-66b7-4d70-b567-c89487e323dc.png'/>
+<img width='700' src='https://user-images.githubusercontent.com/11501572/132732894-a1cfacf2-50cf-4348-a80c-a1079cdf9f07.png'/>
+<img width='700' src='https://user-images.githubusercontent.com/11501572/132732872-1d326b62-df1a-4ce3-be1b-9f787e0c187e.png'/>
+<img width='700' src='https://user-images.githubusercontent.com/11501572/132732854-7e673e92-e5b6-4c5b-bde4-682ab8e7aa96.png'/>
+</p>
+
 ### codedark
 <p>
 <img width='700' src='https://user-images.githubusercontent.com/41551030/108648568-dff4c980-74bb-11eb-9d16-b68ac68f2ab2.png'/>
